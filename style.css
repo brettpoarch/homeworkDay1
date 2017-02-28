@@ -1,0 +1,25 @@
+body {
+	background-color: darkgrey;
+	margin-top: 0px;
+}
+
+.top {
+	margin-top: 40px;
+}
+
+h1 {
+	margin-bottom: 5px;
+}
+
+h2 {
+	margin-top: 5px;
+}
+
+h3 {
+	margin-top: 40px;
+}
+
+img{
+	height:80px;
+	width:80px;
+}
